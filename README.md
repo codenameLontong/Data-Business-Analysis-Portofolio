@@ -1,4 +1,4 @@
-# Jeremy Mervin Juniandi Sitorus - Data Business Analysis Portfolio
+# Jeremy Mervin Juniandi Sitorus - Data Business Analysis Portofolio
 
 Hello, welcome to my Data Analysis Portfolio repository. This collection of projects demonstrates my skills in data manipulation, visualization, and statistical analysis. Each project includes documentation, code, and results, showcasing my approach to solving data-related problems.
 
