@@ -7,7 +7,7 @@ Hello, welcome to my Data Analysis Portfolio repository. This collection of proj
 ### Python Data Analysis
 
 **Description:**
-This repository contains Jupyter notebooks with tasks completed during the mandatory Introduction to AI & Data Science course. Each file covers different topics in Data Science, addressing various data cases and distributions.
+This repository contains Jupyter notebooks with tasks completed during the **Introduction to AI & Data Science** course. Each file covers different topics in Data Science, addressing various data cases and distributions.
 
 **Skills:**
 - Python
