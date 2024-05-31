@@ -19,6 +19,7 @@ This file contains Jupyter notebooks with tasks completed during the **Introduct
 
 **Status:**
 Completed in 2023
+
 ---
 
 ### AI & Data Science Final Project
