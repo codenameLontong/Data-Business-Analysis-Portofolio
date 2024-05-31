@@ -7,7 +7,24 @@ Hello, welcome to my Data Analysis Portfolio repository. This collection of proj
 ### Python Data Analysis
 
 **Description:**
-This repository contains Jupyter notebooks with tasks completed during the **Introduction to AI & Data Science** course. Each file covers different topics in Data Science, addressing various data cases and distributions.
+This file contains Jupyter notebooks with tasks completed during the **Introduction to AI & Data Science** course. Each file covers different topics in Data Science, addressing various data cases and distributions.
+
+**Skills:**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Data Visualization
+
+**Status:**
+Completed in 2023
+---
+
+### AI & Data Science Final Project
+
+**Description:**
+This file contains my final project for the **Introduction to AI & Data Science** course. It includes files focused on processing data from Valorant Pro Matches, covering tasks such as classification, regression, and clustering using various training models.
 
 **Skills:**
 - Python
